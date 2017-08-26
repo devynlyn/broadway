@@ -1,0 +1,61 @@
+*{
+  font-family: helvetica;
+  text-align: center;
+}
+
+h1{
+  color: white;
+  font-size: 70px;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
+
+p{
+  font-size: 14px;
+}
+
+.header{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+.footer{
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+}
+
+#tagline{
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+    font-size: 18px;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+    font-size: 18px;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+    font-size: 18px;
+}
+
+/* selected link */
+a:active {
+    color: white;
+    font-size: 18px;
+}
